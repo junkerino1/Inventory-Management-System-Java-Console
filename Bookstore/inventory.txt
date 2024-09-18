@@ -1,0 +1,12 @@
+B001,Physics,120.00,0,John Doe
+B002,Java,150.00,0,Joshua Bloch
+B003,Algorithms,110.00,108,Robert Lafore
+B004,Probability,200.00,0,Thomas H. Cormen
+B005,Chemistry,10.00,90,Travis Scott
+B006,Algebra,10.00,10,keshi
+S001,Blue Pen,2.50,110,Bic
+S002,Notebook,5.00,50,Cambridge
+S003,Highlighter,1.75,75,Stabilo
+S004,File Folder,4.00,100,Esselte
+S005,Black Marker,1.50,0,Zaplang
+S006,Rotan,10.00,100,guru disiplin

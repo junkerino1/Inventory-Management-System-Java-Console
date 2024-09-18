@@ -1,0 +1,4 @@
+BR01|Subang Jaya|SS15 Courtyard, Jalan SS15/4G, Subang Jaya
+BR02|Setia Alam|Setia City Mall, Persiaran Setia Dagang, Setia Alam
+BR03|Cheras|Sunway Velocity Mall, Lingkaran SV, Cheras
+BR04|Bangsar|Bangsar Village II, Jalan Telawi 1, Bangsar
