@@ -3,3 +3,11 @@ Branch Name: Setia Alam
 Branch Address: Setia City Mall, Persiaran Setia Dagang, Setia Alam
 B001,Physics,10
 B002,Java,10
+Dispatch ID: DO556
+Branch Name: Subang Jaya
+Branch Address: SS15 Courtyard, Jalan SS15/4G, Subang Jaya
+B001,Physics,10
+Dispatch ID: DO962
+Branch Name: Subang Jaya
+Branch Address: SS15 Courtyard, Jalan SS15/4G, Subang Jaya
+B001,Physics,100
