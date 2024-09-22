@@ -13,8 +13,8 @@ public class Inventory {
     private static final Pattern STATIONERY_REGEX = Pattern.compile("S\\d{3}");
 
     public Inventory() {
-        this.books = new ArrayList<>();
-        this.stationeries = new ArrayList<>();
+        Inventory.books = new ArrayList<>();
+        Inventory.stationeries = new ArrayList<>();
         loadProducts();
     }
 

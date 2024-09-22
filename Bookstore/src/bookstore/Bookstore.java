@@ -184,11 +184,11 @@ public class Bookstore {
                     break;
                 case 2:
                     clearScreen();
-                    outboundTransaction.checkDispatchOrders();
+                    OutboundTransaction.checkDispatchOrders();
                     break;
                 case 3:
                     clearScreen();
-                    outboundTransaction.checkDispatchByID();
+                    OutboundTransaction.checkDispatchByID();
                     break;
                 case 0:
                     return;
